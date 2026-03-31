@@ -3,8 +3,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Java             4 hrs 30 mins         ███████████████████████░░   92.16 %
-GitIgnore file   23 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+Java             4 hrs 1 min           ██████████████████████▓░░   90.49 %
+Text             12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+GitIgnore file   8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Git Config       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+PlantUML file    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
