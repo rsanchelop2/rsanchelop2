@@ -18,11 +18,11 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Generate snake animation
-        uses: Sutil/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake2.svg
-          snake_color: "blue"
+          outputs: |
+            dist/github-contribution-grid-snake2.svg?color_snake=blue
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

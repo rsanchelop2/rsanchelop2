@@ -1,4 +1,4 @@
-<img width="760" height="980" alt="portrait" src="https://github.com/user-attachments/assets/c8e7b547-8676-440f-9f11-de71325f0c87" />
+<img width="251" height="323" alt="portrait" src="https://github.com/user-attachments/assets/c8e7b547-8676-440f-9f11-de71325f0c87" />
 <h1 align="center">Hi 👋, I'm rsanchelop2</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
