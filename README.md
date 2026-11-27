@@ -1,12 +1,19 @@
-<img width="251" height="323" alt="portrait" src="https://github.com/user-attachments/assets/c8e7b547-8676-440f-9f11-de71325f0c87" />
-<h1 align="center">Hi 👋, I'm rsanchelop2</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<table>
+  <tr>
+    <td valign="top"><img width="251" height="323" alt="portrait" src="https://github.com/user-attachments/assets/c8e7b547-8676-440f-9f11-de71325f0c87" /></td>
+    <td valign="top">
+      <h1 align="left">Hi 👋, I'm rsanchelop2</h1>
+      <h3 align="left">A passionate frontend developer from Spain</h3>
+      <ul>
+        <li>🔭 I’m currently working on <strong>my studies</strong></li>
+        <li>🌱 I’m currently learning <strong>Spring, Flutter, React, Python</strong></li>
+        <li>💬 Ask me about <strong>Anime</strong></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on **my studies**
-
-- 🌱 I’m currently learning **Spring, Flutter, React, Python**
-
-- 💬 Ask<svg xmlns="http://www.w3.org/2000/svg"
+<svg xmlns="http://www.w3.org/2000/svg"
 width="760" height="980" viewBox="0 0 760 980">
 <rect width="100%" height="100%" fill="#000"/>
 <circle cx="244.00" cy="134.00"
@@ -45419,7 +45426,7 @@ keyTimes="0;0.658364;0.667775;0.894118;1" dur="8.5s" repeatCount="indefinite"/>
 values="2.37;2.37;4.15;2.37;2.37"
 keyTimes="0;0.658364;0.667775;0.894118;1" dur="8.5s" repeatCount="indefinite"/>
 </circle>
-</svg> me about **Anime**
+</svg>
 
 - 📫 How to reach me **rsanchelop2@educacion.navarra.es**
 
